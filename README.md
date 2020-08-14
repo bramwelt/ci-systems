@@ -2,7 +2,7 @@
 description: The initial page....
 ---
 
-# Initial page
+# Introduction
 
 ## Header 1
 

@@ -1,13 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled-1.md)
-
-## Page Group
-
-* [Untitled](page-group/untitled.md)
-
----
-
-* [Untitled](untitled.md)
+* [Introduction](README.md)
+* [Source Control and Triggers](untitled-1.md)
 
