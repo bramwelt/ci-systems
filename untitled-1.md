@@ -15,7 +15,7 @@ Now the majority of systems support Git, or it’s predecessor SVN. But just tri
 
 |  | **Git Repo** | **Github** | **GitLab** | **Bitbucket** | **Azure Repos** |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Jenkins** ℹ  | ✔ ✔  | ✔ | ✔ | ✔ | ✔ |
+| **Jenkins** ℹ  | ✔ | ✔ | ✔ | ✔ | ✔ |
 | **Github Actions** |  | ✔ |  |  |  |
 | **Gitlab-CI** | ✔ | ✔ | ✔ | ✔ |  |
 | **Azure Pipelines** |  | ✔ |  | ✔ | ✔ |
