@@ -9,4 +9,12 @@
   * [Circle-CI](source-control-and-triggers/circle-ci.md)
   * [Travis-CI](source-control-and-triggers/travis-ci.md)
 * [Pipelines and Workflows](pipelines-and-workflows.md)
+* [Secrets and Credentials](secrets-and-credentials.md)
+* [Variables and Environments](variables-and-environments.md)
+* [Caching](caching.md)
+* [Deduplication and Inheritance](deduplication-and-inheritance.md)
+* [Builders, Runners, Executors](builders-runners-executors.md)
+* [Queues](queues.md)
+* [Artifacts and Packages](artifacts-and-packages.md)
+* [Workspaces and Filesystems](workspaces-and-filesystems.md)
 
